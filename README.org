@@ -1,0 +1,5 @@
+* Minha build da barra dwmblocks
+
+*Meus [[https://github.com/LucasTavaresA/scripts][scripts]]*
+
+[[./screenshot.png]]
