@@ -2,4 +2,6 @@
 
 *Meus [[https://github.com/LucasTavaresA/scripts][scripts]]*
 
+*Usando o patch [[https://dwm.suckless.org/patches/splitstatus/][slitstatus]] para centralizar data na barra*
+
 [[./screenshot.png]]
