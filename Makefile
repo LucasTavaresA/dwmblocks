@@ -29,7 +29,7 @@ install: dwmblocks
 	mkdir -p ${DESTDIR}${PREFIX}/bin
 	cp -f dwmblocks ${DESTDIR}${PREFIX}/bin
 	chmod 755 ${DESTDIR}${PREFIX}/bin/dwmblocks
-	./limpaDir.sh
+	./limpaDir
 	killall dwmblocks || exit 0
 
 uninstall:
